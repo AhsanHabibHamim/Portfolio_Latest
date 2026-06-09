@@ -36,7 +36,7 @@ function App() {
       <QueryClientProvider client={queryClient}>
         <TooltipProvider>
           <CursorEffect />
-          <WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, "")}>
+          <WouterRouter base={import.meta.env.BASE_URL || "/"}>
             <div className="flex flex-col min-h-[100dvh]">
               <Navbar />
               <main className="flex-1">
