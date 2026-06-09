@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahsanhabibhamim.com/sitemap.xml
