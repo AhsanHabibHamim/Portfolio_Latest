@@ -64,7 +64,7 @@ My goal is to become a **top-tier backend engineer** and work on large-scale sys
 
 - GitHub: https://github.com/ahsanhabibhamim
 - LinkedIn: https://linkedin.com/in/coderahsanhabibhamim
-- Email: yourmail@gmail.com
+- Email: coderahsan3.0@gmail.com
 
 ---
 
